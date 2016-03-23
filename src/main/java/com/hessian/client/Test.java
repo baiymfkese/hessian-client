@@ -9,6 +9,11 @@ import com.dawning.gridview.app.gridview.webapp.jedis.hessian.ExampleService;
 import com.dawning.gridview.app.gridview.webapp.jedis.hessian.HelloService;
 import com.dawning.gridview.app.gridview.webapp.jedis.po.Student;
 
+/**
+ * hessian客户端调用
+ * @author ming
+ *
+ */
 public class Test {
 
 	/**
